@@ -25861,10 +25861,11 @@ function NFTMarketPlace(props) {
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Frame5, {
                             children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Docs, {
+                                href: "https://docs.nftsyprotocol.io/protocol/overview",
                                 children: docs
                             }, void 0, false, {
                                 fileName: "components/NFTMarketPlace/index.jsx",
-                                lineNumber: 54,
+                                lineNumber: 55,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
@@ -25874,22 +25875,23 @@ function NFTMarketPlace(props) {
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Frame6, {
                             children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Docs, {
+                                href: "https://twitter.com/NFTSyProtocol",
                                 children: twitter
                             }, void 0, false, {
                                 fileName: "components/NFTMarketPlace/index.jsx",
-                                lineNumber: 57,
+                                lineNumber: 60,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 56,
+                            lineNumber: 59,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Logo, {
                             src: "/img/logo@2x.svg"
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 59,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, this)
                     ]
@@ -25906,7 +25908,7 @@ function NFTMarketPlace(props) {
                                     children: democratizingInvest
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 63,
+                                    lineNumber: 66,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OverlapGroup1, {
@@ -25915,7 +25917,7 @@ function NFTMarketPlace(props) {
                                             src: "/img/dot@2x.svg"
                                         }, void 0, false, {
                                             fileName: "components/NFTMarketPlace/index.jsx",
-                                            lineNumber: 65,
+                                            lineNumber: 68,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Frame2, {
@@ -25923,38 +25925,38 @@ function NFTMarketPlace(props) {
                                                 children: learnMore
                                             }, void 0, false, {
                                                 fileName: "components/NFTMarketPlace/index.jsx",
-                                                lineNumber: 67,
+                                                lineNumber: 70,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "components/NFTMarketPlace/index.jsx",
-                                            lineNumber: 66,
+                                            lineNumber: 69,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NFTSyIsAnInnovati, {
                                             children: nftsyIsAnInnovati
                                         }, void 0, false, {
                                             fileName: "components/NFTMarketPlace/index.jsx",
-                                            lineNumber: 69,
+                                            lineNumber: 72,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 64,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 62,
+                            lineNumber: 65,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Rectangle184, {
                             src: rectangle184
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 72,
+                            lineNumber: 75,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(MobileContainer, {
@@ -25963,26 +25965,26 @@ function NFTMarketPlace(props) {
                                     src: "/img/mobile@1x.svg"
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 74,
+                                    lineNumber: 77,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Mobile1, {
                                     src: "/img/mobile-1@1x.svg"
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 75,
+                                    lineNumber: 78,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 73,
+                            lineNumber: 76,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/NFTMarketPlace/index.jsx",
-                    lineNumber: 61,
+                    lineNumber: 64,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OverlapGroup3, {
@@ -25995,33 +25997,33 @@ function NFTMarketPlace(props) {
                                             src: bayc1
                                         }, void 0, false, {
                                             fileName: "components/NFTMarketPlace/index.jsx",
-                                            lineNumber: 81,
+                                            lineNumber: 84,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Image46, {
                                             src: image46
                                         }, void 0, false, {
                                             fileName: "components/NFTMarketPlace/index.jsx",
-                                            lineNumber: 82,
+                                            lineNumber: 85,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 80,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Image47, {
                                     src: image47
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 84,
+                                    lineNumber: 87,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 79,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(SignUpNFT, {
@@ -26030,33 +26032,33 @@ function NFTMarketPlace(props) {
                                     children: whatIsNftsy
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 87,
+                                    lineNumber: 90,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NFTSyIssuesERC20T, {
                                     children: nftsyIssuesErc20T
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 88,
+                                    lineNumber: 91,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 86,
+                            lineNumber: 89,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/NFTMarketPlace/index.jsx",
-                    lineNumber: 78,
+                    lineNumber: 81,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(WhyNFTSy, {
                     children: whyNftsy
                 }, void 0, false, {
                     fileName: "components/NFTMarketPlace/index.jsx",
-                    lineNumber: 91,
+                    lineNumber: 94,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Group914, {
@@ -26067,20 +26069,20 @@ function NFTMarketPlace(props) {
                                     children: instantaneousLiquidityForNfts
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 97,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NFTHodlersHaveAcc, {
                                     children: nftHodlersHaveAcc
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 95,
+                                    lineNumber: 98,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 93,
+                            lineNumber: 96,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Group87, {
@@ -26089,20 +26091,20 @@ function NFTMarketPlace(props) {
                                     children: unparalleledAccessibility
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 98,
+                                    lineNumber: 101,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NonNFTHodlersOnly, {
                                     children: nonNftHodlersOnly
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 99,
+                                    lineNumber: 102,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 97,
+                            lineNumber: 100,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Group88, {
@@ -26111,26 +26113,26 @@ function NFTMarketPlace(props) {
                                     children: earnPassiveIncomeOnNfts
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 102,
+                                    lineNumber: 105,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(NFTHoldersCanEarn, {
                                     children: nftHoldersCanEarn
                                 }, void 0, false, {
                                     fileName: "components/NFTMarketPlace/index.jsx",
-                                    lineNumber: 103,
+                                    lineNumber: 106,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 101,
+                            lineNumber: 104,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/NFTMarketPlace/index.jsx",
-                    lineNumber: 92,
+                    lineNumber: 95,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(OverlapGroup, {
@@ -26139,27 +26141,88 @@ function NFTMarketPlace(props) {
                             children: nftsy
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 107,
+                            lineNumber: 110,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(ResearchDocumentationLink, {
-                            children: researchDocumentationLink
+                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
+                                children: [
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("a", {
+                                        children: "Research"
+                                    }, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 113,
+                                        columnNumber: 15
+                                    }, this),
+                                    " ",
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 113,
+                                        columnNumber: 31
+                                    }, this),
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("a", {
+                                        href: "https://docs.nftsyprotocol.io/protocol/overview",
+                                        children: "Documentation"
+                                    }, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 114,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "components/NFTMarketPlace/index.jsx",
+                                lineNumber: 112,
+                                columnNumber: 13
+                            }, this)
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 108,
+                            lineNumber: 111,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(CommunityTwitterDiscordTelegram, {
-                            children: communityTwitterDiscordTelegram
+                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
+                                children: [
+                                    "Community",
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 119,
+                                        columnNumber: 24
+                                    }, this),
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("a", {
+                                        href: "https://twitter.com/NFTSyProtocol",
+                                        children: "Twitter"
+                                    }, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 120,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 120,
+                                        columnNumber: 72
+                                    }, this),
+                                    "Discord",
+                                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
+                                        fileName: "components/NFTMarketPlace/index.jsx",
+                                        lineNumber: 121,
+                                        columnNumber: 22
+                                    }, this),
+                                    "Telegram"
+                                ]
+                            }, void 0, true, {
+                                fileName: "components/NFTMarketPlace/index.jsx",
+                                lineNumber: 118,
+                                columnNumber: 13
+                            }, this)
                         }, void 0, false, {
                             fileName: "components/NFTMarketPlace/index.jsx",
-                            lineNumber: 109,
+                            lineNumber: 117,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "components/NFTMarketPlace/index.jsx",
-                    lineNumber: 106,
+                    lineNumber: 109,
                     columnNumber: 9
                 }, this)
             ]
@@ -26261,7 +26324,7 @@ const Frame5 = _styledComponentsDefault.default.div`
   border-radius: 60px;
 `;
 _c9 = Frame5;
-const Docs = _styledComponentsDefault.default.div`
+const Docs = _styledComponentsDefault.default.a`
   ${_styledMixins.DmsansBoldKingfisherDaisy14px}
   letter-spacing: 0.56px;
   line-height: 14px;

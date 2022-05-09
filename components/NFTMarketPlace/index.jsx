@@ -51,10 +51,13 @@ function NFTMarketPlace(props) {
             <Line10 src="/img/line-10@1x.svg" />
           </TopMenu>
           <Frame5>
-            <Docs>{docs}</Docs>
+
+            <Docs href="https://docs.nftsyprotocol.io/protocol/overview">
+              {docs}
+            </Docs>
           </Frame5>
           <Frame6>
-            <Docs>{twitter}</Docs>
+            <Docs href="https://twitter.com/NFTSyProtocol">{twitter}</Docs>
           </Frame6>
           <Logo src="/img/logo@2x.svg" />
         </OverlapGroup2>
@@ -105,8 +108,20 @@ function NFTMarketPlace(props) {
         </Group914>
         <OverlapGroup>
           <NFTSy>{nftsy}</NFTSy>
-          <ResearchDocumentationLink>{researchDocumentationLink}</ResearchDocumentationLink>
-          <CommunityTwitterDiscordTelegram>{communityTwitterDiscordTelegram}</CommunityTwitterDiscordTelegram>
+          <ResearchDocumentationLink>
+            <React.Fragment>
+              <a>Research</a> <br />
+              <a href={"https://docs.nftsyprotocol.io/protocol/overview"}>Documentation</a>
+            </React.Fragment>
+          </ResearchDocumentationLink>
+          <CommunityTwitterDiscordTelegram>
+            <React.Fragment>
+              Community<br />
+              <a href={"https://twitter.com/NFTSyProtocol"}>Twitter</a><br />
+              Discord<br />
+              Telegram
+            </React.Fragment>
+          </CommunityTwitterDiscordTelegram>
         </OverlapGroup>
       </div>
     </div>
@@ -199,7 +214,7 @@ const Frame5 = styled.div`
   border-radius: 60px;
 `;
 
-const Docs = styled.div`
+const Docs = styled.a`
   ${DmsansBoldKingfisherDaisy14px}
   letter-spacing: 0.56px;
   line-height: 14px;
