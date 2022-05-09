@@ -1,0 +1,54 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=DM+Sans:400,700,500|Inter:400|Anek+Kannada:700,800";
+@import "https://px.animaapp.com/627877f04fd7c72e24482ca0.627877f3f49e8bebdf3a970c.TEUR5X3.rcp.png";
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #000;
+  --geyser: #d9dfeb33;
+  --granite-gray: #696969;
+  --kingfisher-daisy: #3d00b7;
+  --masala: #3c3c3c;
+  --white: #fff;
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 40px;
+  --font-size-xxxxl: 48px;
+  --font-family-anek_kannada: "Anek Kannada", Helvetica;
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+
+.nft-market-place {
+  background-color: var(--white);
+  height: 2209px;
+  width: 1440px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.e1b8c111.css.map */
