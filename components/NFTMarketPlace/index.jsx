@@ -67,7 +67,7 @@ function NFTMarketPlace(props) {
             <OverlapGroup1>
               <Dot src="/img/dot@2x.svg" />
               <Frame2>
-                <LearnMore>{learnMore}</LearnMore>
+                <LearnMore href={"https://docs.nftsyprotocol.io/protocol/overview"}>{learnMore}</LearnMore>
               </Frame2>
               <NFTSyIsAnInnovati>{nftsyIsAnInnovati}</NFTSyIsAnInnovati>
             </OverlapGroup1>
@@ -306,7 +306,7 @@ const Frame2 = styled.div`
   border-radius: 60px;
 `;
 
-const LearnMore = styled.div`
+const LearnMore = styled.a`
   margin-left: -0.5px;
   font-family: var(--font-family-inter);
   font-weight: 400;

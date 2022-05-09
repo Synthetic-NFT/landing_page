@@ -25922,6 +25922,7 @@ function NFTMarketPlace(props) {
                                         }, this),
                                         /*#__PURE__*/ _jsxDevRuntime.jsxDEV(Frame2, {
                                             children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(LearnMore, {
+                                                href: "https://docs.nftsyprotocol.io/protocol/overview",
                                                 children: learnMore
                                             }, void 0, false, {
                                                 fileName: "components/NFTMarketPlace/index.jsx",
@@ -26416,7 +26417,7 @@ const Frame2 = _styledComponentsDefault.default.div`
   border-radius: 60px;
 `;
 _c18 = Frame2;
-const LearnMore = _styledComponentsDefault.default.div`
+const LearnMore = _styledComponentsDefault.default.a`
   margin-left: -0.5px;
   font-family: var(--font-family-inter);
   font-weight: 400;
